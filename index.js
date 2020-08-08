@@ -1,2 +1,2 @@
+const multiply = 2 * 31
 
-// Write your code here
